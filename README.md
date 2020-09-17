@@ -1,2 +1,2 @@
 # nutri-app
-A Kotlin MVVM sample app
+A sample Kotlin MVVM app
